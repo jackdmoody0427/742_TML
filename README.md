@@ -8,3 +8,5 @@ Project: SINDy Paper
 - Deep Time: https://deeptime-ml.github.io/latest/index.html
 - Youtube intro with SINDy for python: https://www.youtube.com/watch?v=DvbbXX8Bd90&ab_channel=SteveBrunton
 - SINDy for python github repo: https://github.com/dynamicslab/pysindy
+
+[keep a record of all your data science projects](https://benjaminobi.medium.com/keep-a-record-of-all-your-data-science-projects-e7bae6d30e96)
