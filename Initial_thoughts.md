@@ -22,3 +22,6 @@
 16. conclusion 
 
 https://www.youtube.com/watch?v=MuT2ZzgS4DI
+
+**Definitely need to use this github repo**
+https://pysindy.readthedocs.io/en/latest/examples/3_original_paper.html 
